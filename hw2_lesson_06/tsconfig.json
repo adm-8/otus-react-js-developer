@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react",
+        "sourceMap": true,
+        "rootDir": "src",
+        "outDir": "build"
+    }
+  }
